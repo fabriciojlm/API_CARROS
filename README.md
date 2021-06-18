@@ -10,7 +10,7 @@
 - Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)
 - Mongoose ~4.x;
 - JSON data (para retornar os dados);
-- PostMan (testar a API criada);
+- PostMan (testar a API criada);;
 
 
 ## Testando a Aplicação no Postman:
